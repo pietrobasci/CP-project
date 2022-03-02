@@ -41,3 +41,5 @@ The objective of this work is to build a ticket booking system for a multiplex. 
     <figcaption>Client Desktop</figcaption>
   </center>
 </figure>
+
+<br><br>
